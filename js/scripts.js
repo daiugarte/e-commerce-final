@@ -39,6 +39,17 @@ document.addEventListener("DOMContentLoaded", () => {
       };
       cart.push(addNewProduct);
       sessionStorage.setItem("cart", JSON.stringify(cart));
+
+       // Mostrar notificacion con la libreria toastify
+      Toastify({
+        text: "Producto agregado al carrito",
+        duration: 1500,
+        gravity: "top", // `top` or `bottom`
+        position: "center", // `left`, `center` or `right`
+        stopOnFocus: true, // Prevents dismissing of toast on hover
+        style: { background: "green" },
+    }).showToast();
+
     } else {
       const indexProductCart = cart.findIndex(
         (producto) => producto.id === productId
