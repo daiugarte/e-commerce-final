@@ -1,0 +1,15 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "Online Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daiana Ugartemendia",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "toastify-js": "^1.12.0"
+  }
+}

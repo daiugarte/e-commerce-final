@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Aperol",
+    "image": "./img/aperol.avif",
+    "price": 19.99
+  },
+  {
+    "id": 2,
+    "name": "Budweiser",
+    "image": "./img/budweiser.avif",
+    "price": 7.5
+  },
+  {
+    "id": 3,
+    "name": "Catena Zapata Malbec",
+    "image": "./img/catena-zapata-malbec.avif",
+    "price": 29.99
+  },
+  {
+    "id": 4,
+    "name": "Johnnie Walker Black Label",
+    "image": "./img/johnnie-walker-black-label.avif",
+    "price": 150.0
+  },
+  {
+    "id": 5,
+    "name": "Fernet Branca",
+    "image": "./img/fernet-branca.avif",
+    "price": 100.0
+  },
+  {
+    "id": 6,
+    "name": "Johnnie Walker Blue Label",
+    "image": "./img/johnnie-walker-blue-label.avif",
+    "price": 299.99
+  },
+  {
+    "id": 7,
+    "name": "Quilmes",
+    "image": "./img/quilmes.avif",
+    "price": 5.5
+  }
+]
