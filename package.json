@@ -9,7 +9,6 @@
   "author": "Daiana Ugartemendia",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.1",
     "toastify-js": "^1.12.0"
   }
 }
